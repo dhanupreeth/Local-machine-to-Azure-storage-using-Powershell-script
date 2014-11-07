@@ -3,7 +3,7 @@ Add-AzureAccount
 
 $subscriptionName = "YOUR NAME"
 $storageAccountName = "YOUR STORAGE ACCOUNT NAME "
-$containerName = YOUR CONTAINER NAME "
+$containerName = "YOUR CONTAINER NAME"
 
 # the file name must be same in both source and destination 
 
