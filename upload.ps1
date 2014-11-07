@@ -5,7 +5,7 @@ $subscriptionName = "YOUR NAME"
 $storageAccountName = "YOUR STORAGE ACCOUNT NAME "
 $containerName = "YOUR CONTAINER NAME"
 
-# the file name must be same in both source and destination 
+#The file name must be same in both source and destination 
 
 $fileName = "LOCAL FILE PATH\filename with extension"
 $blobName = "CONTAINER BLOB NAME/SOURCE FILE NAME WITH EXTENSION"
